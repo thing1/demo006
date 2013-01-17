@@ -1,1 +1,3 @@
 text for fileA.txt
+
+Thing9 was here !!!!!
