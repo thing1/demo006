@@ -1,1 +1,3 @@
 text for fileC.txt
+
+Thing9 changing file C
